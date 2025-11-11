@@ -292,9 +292,9 @@ This research tested attacks exclusively on mathematical problems ("What is 8 + 
 For questions about this research or to discuss AI security collaboration opportunities:
 
 **Scott Thornton**
-📧 scott.thornton [at] protonmail [dot] com
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-💻 [GitHub](https://github.com/yourprofile)
+📧
+🔗 [LinkedIn](https://www.linkedin.com/in/scthornton)
+💻 [GitHub](https://github.com/scthornton)
 
 ---
 
@@ -354,4 +354,5 @@ This research was conducted following responsible disclosure practices and defen
 *Research conducted November 2025 by Scott Thornton*
 
 *"The era of reasoning-powered AI is here. Let's make it secure."*
+
 # Chain-of-Thought-Reasoning-Attacks
