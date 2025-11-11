@@ -1,0 +1,64 @@
+# Research Use Only License
+
+Copyright (c) 2025 Scott Thornton
+
+## Permitted Uses
+
+This security research and its materials may be used for:
+
+✅ **Defensive Security Research** - Studying vulnerabilities to build better protections
+✅ **Educational Purposes** - Learning about AI security threats and defenses
+✅ **Security Tool Development** - Creating detection and mitigation systems
+✅ **Academic Study** - Citing methodology and findings in research papers
+✅ **Internal Security Testing** - Testing your own authorized systems
+
+## Prohibited Uses
+
+This research may NOT be used for:
+
+❌ **Malicious Attacks** - Attacking systems you don't own or have authorization to test
+❌ **Weaponization** - Creating automated exploitation tools for widespread use
+❌ **Unauthorized Testing** - Bypassing security without explicit permission
+❌ **Illegal Activities** - Any use that violates applicable laws or regulations
+❌ **Unethical Purposes** - Causing harm to systems, users, or organizations
+
+## Responsible Disclosure
+
+This research follows responsible disclosure principles:
+
+- **Methodology Shared** - Attack patterns and defense strategies explained conceptually
+- **Working Exploits Not Included** - No exact prompts or automated attack code provided
+- **Defense-Focused** - Every vulnerability includes corresponding mitigation approaches
+- **Ethical Standards** - Research conducted in authorized environments only
+
+## Disclaimer
+
+THIS RESEARCH IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHOR ASSUMES NO RESPONSIBILITY FOR MISUSE OF THIS INFORMATION OR ANY DAMAGES RESULTING FROM ITS USE.
+
+Security researchers using this work must:
+1. Obtain proper authorization before testing any systems
+2. Follow ethical disclosure practices
+3. Prioritize defense development over exploitation
+4. Comply with all applicable laws and regulations
+
+## Attribution
+
+When citing this research, please use:
+
+**APA Format:**
+```
+Thornton, S. (2025). Chain-of-Thought Jailbreak Research: When AI Reasoning
+Becomes the Attack Surface. GitHub Repository.
+https://github.com/[your-username]/cot-jailbreak-research-public
+```
+
+**IEEE Format:**
+```
+S. Thornton, "Chain-of-Thought Jailbreak Research: When AI Reasoning Becomes
+the Attack Surface," GitHub Repository, Nov. 2025. [Online].
+Available: https://github.com/[your-username]/cot-jailbreak-research-public
+```
+
+---
+
+For questions about appropriate use or to request additional materials for authorized research, contact: scott.thornton [at] protonmail [dot] com
