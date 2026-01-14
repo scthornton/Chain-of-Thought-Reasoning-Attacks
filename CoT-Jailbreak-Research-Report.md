@@ -1137,9 +1137,9 @@ cot-attack-framework/
 For questions about this research or to discuss AI security collaboration opportunities:
 
 **Scott Thornton**
-📧 scott.thornton [at] protonmail [dot] com
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-💻 [GitHub](https://github.com/yourprofile)
+📧 scott [at] perfecxion [dot] ai
+🔗 [LinkedIn](https://www.linkedin.com/in/scthornton)
+💻 [GitHub](https://github.com/scthornton)
 
 *This research was conducted in accordance with responsible disclosure principles and defensive security research ethics. All testing was performed in authorized environments with the goal of improving AI security for everyone.*
 
