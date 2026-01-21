@@ -1,0 +1,38 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI tool artifacts
+.claude/
+CLAUDE.md
+claude.md
+planning.md
+status.md
+notes.md
+todo.md
+*.chat
+*.conversation
